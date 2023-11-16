@@ -1,2 +1,2 @@
 Devfile for learning Git
-Dev branch
+Master branch
